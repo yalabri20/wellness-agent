@@ -169,9 +169,9 @@ chmod +x run_all.sh && ./run_all.sh
 
 | Service | URL |
 | --- | --- |
-| Chat simulator | http://127.0.0.1:8501 |
-| HR dashboard | http://127.0.0.1:8502 |
-| API / OpenAPI | http://127.0.0.1:8000/docs |
+| Chat simulator |  |
+| HR dashboard |  |
+| API / OpenAPI |  |
 
 Headless smoke test:
 
