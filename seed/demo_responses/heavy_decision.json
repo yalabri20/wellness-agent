@@ -1,0 +1,8 @@
+{
+  "intervention_type": "walk",
+  "rationale": "High slump risk before a high-importance meeting \u2014 10-minute walk preferred over more food.",
+  "timing": "now",
+  "duration_min": 10,
+  "meal_id": null,
+  "requires_confirmation": false
+}

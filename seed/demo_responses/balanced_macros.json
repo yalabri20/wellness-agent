@@ -1,0 +1,14 @@
+{
+  "kcal": 520,
+  "protein_g": 34,
+  "refined_carbs_g": 28,
+  "fiber_g": 9,
+  "fat_g": 18,
+  "sugar_g": 8,
+  "confidence": 0.84,
+  "dish_names": [
+    "grilled chicken salad",
+    "water"
+  ],
+  "language": "en"
+}

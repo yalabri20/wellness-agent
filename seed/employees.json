@@ -1,0 +1,435 @@
+[
+  {
+    "id": "demo_user",
+    "department": "Engineering",
+    "daily_allowance_sar": 35.0,
+    "dietary_tags": [
+      "no_nuts"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": true
+  },
+  {
+    "id": "emp_02",
+    "department": "Sales",
+    "daily_allowance_sar": 28.7,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_03",
+    "department": "Operations",
+    "daily_allowance_sar": 33.9,
+    "dietary_tags": [],
+    "opted_in": false,
+    "language": "ar",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_04",
+    "department": "Finance",
+    "daily_allowance_sar": 28.5,
+    "dietary_tags": [
+      "halal"
+    ],
+    "opted_in": false,
+    "language": "ar",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_05",
+    "department": "HR",
+    "daily_allowance_sar": 35.7,
+    "dietary_tags": [
+      "high_protein"
+    ],
+    "opted_in": true,
+    "language": "ar",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_06",
+    "department": "Support",
+    "daily_allowance_sar": 31.7,
+    "dietary_tags": [
+      "no_nuts"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_07",
+    "department": "Engineering",
+    "daily_allowance_sar": 36.4,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_08",
+    "department": "Sales",
+    "daily_allowance_sar": 29.2,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_09",
+    "department": "Operations",
+    "daily_allowance_sar": 26.5,
+    "dietary_tags": [
+      "vegetarian",
+      "no_nuts"
+    ],
+    "opted_in": false,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_10",
+    "department": "Finance",
+    "daily_allowance_sar": 34.1,
+    "dietary_tags": [],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_11",
+    "department": "HR",
+    "daily_allowance_sar": 39.6,
+    "dietary_tags": [
+      "vegetarian",
+      "no_nuts"
+    ],
+    "opted_in": false,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_12",
+    "department": "Support",
+    "daily_allowance_sar": 37.4,
+    "dietary_tags": [
+      "halal"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_13",
+    "department": "Engineering",
+    "daily_allowance_sar": 33.7,
+    "dietary_tags": [
+      "high_protein"
+    ],
+    "opted_in": false,
+    "language": "ar",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_14",
+    "department": "Sales",
+    "daily_allowance_sar": 36.6,
+    "dietary_tags": [],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_15",
+    "department": "Operations",
+    "daily_allowance_sar": 30.7,
+    "dietary_tags": [
+      "vegetarian",
+      "no_nuts"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_16",
+    "department": "Finance",
+    "daily_allowance_sar": 27.4,
+    "dietary_tags": [
+      "no_nuts"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_17",
+    "department": "HR",
+    "daily_allowance_sar": 35.5,
+    "dietary_tags": [
+      "high_protein"
+    ],
+    "opted_in": true,
+    "language": "ar",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_18",
+    "department": "Support",
+    "daily_allowance_sar": 33.0,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_19",
+    "department": "Engineering",
+    "daily_allowance_sar": 29.0,
+    "dietary_tags": [
+      "high_protein"
+    ],
+    "opted_in": true,
+    "language": "ar",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_20",
+    "department": "Sales",
+    "daily_allowance_sar": 35.3,
+    "dietary_tags": [],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_21",
+    "department": "Operations",
+    "daily_allowance_sar": 37.1,
+    "dietary_tags": [
+      "vegetarian",
+      "no_nuts"
+    ],
+    "opted_in": true,
+    "language": "ar",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_22",
+    "department": "Finance",
+    "daily_allowance_sar": 38.7,
+    "dietary_tags": [
+      "halal"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_23",
+    "department": "HR",
+    "daily_allowance_sar": 28.2,
+    "dietary_tags": [
+      "vegetarian",
+      "no_nuts"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_24",
+    "department": "Support",
+    "daily_allowance_sar": 27.1,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_25",
+    "department": "Engineering",
+    "daily_allowance_sar": 36.2,
+    "dietary_tags": [
+      "vegetarian",
+      "no_nuts"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_26",
+    "department": "Sales",
+    "daily_allowance_sar": 30.4,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_27",
+    "department": "Operations",
+    "daily_allowance_sar": 36.3,
+    "dietary_tags": [],
+    "opted_in": true,
+    "language": "ar",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_28",
+    "department": "Finance",
+    "daily_allowance_sar": 36.9,
+    "dietary_tags": [
+      "vegetarian",
+      "no_nuts"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_29",
+    "department": "HR",
+    "daily_allowance_sar": 30.7,
+    "dietary_tags": [
+      "vegetarian",
+      "no_nuts"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_30",
+    "department": "Support",
+    "daily_allowance_sar": 35.2,
+    "dietary_tags": [],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_31",
+    "department": "Engineering",
+    "daily_allowance_sar": 36.5,
+    "dietary_tags": [
+      "no_nuts"
+    ],
+    "opted_in": false,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_32",
+    "department": "Sales",
+    "daily_allowance_sar": 27.4,
+    "dietary_tags": [],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_33",
+    "department": "Operations",
+    "daily_allowance_sar": 39.6,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_34",
+    "department": "Finance",
+    "daily_allowance_sar": 38.1,
+    "dietary_tags": [
+      "no_nuts"
+    ],
+    "opted_in": true,
+    "language": "ar",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_35",
+    "department": "HR",
+    "daily_allowance_sar": 27.3,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_36",
+    "department": "Support",
+    "daily_allowance_sar": 34.0,
+    "dietary_tags": [
+      "vegetarian",
+      "no_nuts"
+    ],
+    "opted_in": false,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_37",
+    "department": "Engineering",
+    "daily_allowance_sar": 38.2,
+    "dietary_tags": [
+      "no_nuts"
+    ],
+    "opted_in": true,
+    "language": "ar",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_38",
+    "department": "Sales",
+    "daily_allowance_sar": 38.2,
+    "dietary_tags": [],
+    "opted_in": false,
+    "language": "en",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_39",
+    "department": "Operations",
+    "daily_allowance_sar": 37.2,
+    "dietary_tags": [
+      "halal"
+    ],
+    "opted_in": true,
+    "language": "ar",
+    "live_demo_user": false
+  },
+  {
+    "id": "emp_40",
+    "department": "Finance",
+    "daily_allowance_sar": 34.9,
+    "dietary_tags": [
+      "halal"
+    ],
+    "opted_in": true,
+    "language": "en",
+    "live_demo_user": false
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "heavy": {
+    "sha16": "b33ba36e50163d54",
+    "size": 5268,
+    "path": "C:\\Users\\User\\wellness-agent\\assets\\demo_images\\heavy.jpg"
+  },
+  "balanced": {
+    "sha16": "6a3e7cc181a15520",
+    "size": 4260,
+    "path": "C:\\Users\\User\\wellness-agent\\assets\\demo_images\\balanced.jpg"
+  },
+  "light": {
+    "sha16": "2eac8e6b0bef98f2",
+    "size": 2353,
+    "path": "C:\\Users\\User\\wellness-agent\\assets\\demo_images\\light.jpg"
+  }
+}

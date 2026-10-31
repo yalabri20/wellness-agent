@@ -1,0 +1,14 @@
+{
+  "kcal": 980,
+  "protein_g": 42,
+  "refined_carbs_g": 95,
+  "fiber_g": 6,
+  "fat_g": 38,
+  "sugar_g": 42,
+  "confidence": 0.88,
+  "dish_names": [
+    "chicken kabsa",
+    "Pepsi"
+  ],
+  "language": "en"
+}

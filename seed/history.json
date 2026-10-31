@@ -1,0 +1,1802 @@
+[
+  {
+    "date": "2026-09-30",
+    "department": "Engineering",
+    "energy_index": 61,
+    "slumps_prevented": 6,
+    "interventions_offered": 19,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 160.6,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-09-30",
+    "department": "Sales",
+    "energy_index": 61,
+    "slumps_prevented": 4,
+    "interventions_offered": 11,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 249.5,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-09-30",
+    "department": "Operations",
+    "energy_index": 69,
+    "slumps_prevented": 8,
+    "interventions_offered": 13,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 94.9,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-09-30",
+    "department": "Finance",
+    "energy_index": 75,
+    "slumps_prevented": 2,
+    "interventions_offered": 17,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 285.6,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-09-30",
+    "department": "HR",
+    "energy_index": 64,
+    "slumps_prevented": 8,
+    "interventions_offered": 13,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 284.8,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-09-30",
+    "department": "Support",
+    "energy_index": 76,
+    "slumps_prevented": 11,
+    "interventions_offered": 19,
+    "interventions_accepted": 10,
+    "allowance_used_sar": 295.5,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-01",
+    "department": "Engineering",
+    "energy_index": 52,
+    "slumps_prevented": 8,
+    "interventions_offered": 14,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 160.7,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-01",
+    "department": "Sales",
+    "energy_index": 58,
+    "slumps_prevented": 11,
+    "interventions_offered": 22,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 208.2,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-01",
+    "department": "Operations",
+    "energy_index": 67,
+    "slumps_prevented": 12,
+    "interventions_offered": 18,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 182.9,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-01",
+    "department": "Finance",
+    "energy_index": 51,
+    "slumps_prevented": 5,
+    "interventions_offered": 12,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 189.1,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-01",
+    "department": "HR",
+    "energy_index": 59,
+    "slumps_prevented": 8,
+    "interventions_offered": 20,
+    "interventions_accepted": 13,
+    "allowance_used_sar": 140.5,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-01",
+    "department": "Support",
+    "energy_index": 56,
+    "slumps_prevented": 7,
+    "interventions_offered": 19,
+    "interventions_accepted": 10,
+    "allowance_used_sar": 133.8,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-02",
+    "department": "Engineering",
+    "energy_index": 63,
+    "slumps_prevented": 5,
+    "interventions_offered": 20,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 127.8,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-02",
+    "department": "Sales",
+    "energy_index": 68,
+    "slumps_prevented": 12,
+    "interventions_offered": 11,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 107.5,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-02",
+    "department": "Operations",
+    "energy_index": 75,
+    "slumps_prevented": 4,
+    "interventions_offered": 12,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 225.4,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-02",
+    "department": "Finance",
+    "energy_index": 63,
+    "slumps_prevented": 6,
+    "interventions_offered": 9,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 218.2,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-02",
+    "department": "HR",
+    "energy_index": 74,
+    "slumps_prevented": 12,
+    "interventions_offered": 11,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 138.3,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-02",
+    "department": "Support",
+    "energy_index": 76,
+    "slumps_prevented": 11,
+    "interventions_offered": 20,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 267.8,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-03",
+    "department": "Engineering",
+    "energy_index": 67,
+    "slumps_prevented": 10,
+    "interventions_offered": 18,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 235.4,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-03",
+    "department": "Sales",
+    "energy_index": 70,
+    "slumps_prevented": 7,
+    "interventions_offered": 9,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 232.5,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-03",
+    "department": "Operations",
+    "energy_index": 65,
+    "slumps_prevented": 12,
+    "interventions_offered": 10,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 144.8,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-03",
+    "department": "Finance",
+    "energy_index": 70,
+    "slumps_prevented": 6,
+    "interventions_offered": 21,
+    "interventions_accepted": 12,
+    "allowance_used_sar": 157.4,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-03",
+    "department": "HR",
+    "energy_index": 62,
+    "slumps_prevented": 9,
+    "interventions_offered": 22,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 216.8,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-03",
+    "department": "Support",
+    "energy_index": 62,
+    "slumps_prevented": 4,
+    "interventions_offered": 15,
+    "interventions_accepted": 9,
+    "allowance_used_sar": 197.0,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-04",
+    "department": "Engineering",
+    "energy_index": 62,
+    "slumps_prevented": 6,
+    "interventions_offered": 12,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 213.4,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-04",
+    "department": "Sales",
+    "energy_index": 61,
+    "slumps_prevented": 10,
+    "interventions_offered": 19,
+    "interventions_accepted": 9,
+    "allowance_used_sar": 262.0,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-04",
+    "department": "Operations",
+    "energy_index": 78,
+    "slumps_prevented": 2,
+    "interventions_offered": 15,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 102.3,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-04",
+    "department": "Finance",
+    "energy_index": 74,
+    "slumps_prevented": 11,
+    "interventions_offered": 11,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 168.6,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-04",
+    "department": "HR",
+    "energy_index": 74,
+    "slumps_prevented": 9,
+    "interventions_offered": 16,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 145.0,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-04",
+    "department": "Support",
+    "energy_index": 61,
+    "slumps_prevented": 3,
+    "interventions_offered": 19,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 258.3,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-05",
+    "department": "Engineering",
+    "energy_index": 59,
+    "slumps_prevented": 11,
+    "interventions_offered": 19,
+    "interventions_accepted": 9,
+    "allowance_used_sar": 314.4,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-05",
+    "department": "Sales",
+    "energy_index": 61,
+    "slumps_prevented": 4,
+    "interventions_offered": 12,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 152.5,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-05",
+    "department": "Operations",
+    "energy_index": 61,
+    "slumps_prevented": 4,
+    "interventions_offered": 8,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 233.1,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-05",
+    "department": "Finance",
+    "energy_index": 58,
+    "slumps_prevented": 9,
+    "interventions_offered": 17,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 185.7,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-05",
+    "department": "HR",
+    "energy_index": 61,
+    "slumps_prevented": 3,
+    "interventions_offered": 21,
+    "interventions_accepted": 10,
+    "allowance_used_sar": 176.2,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-05",
+    "department": "Support",
+    "energy_index": 76,
+    "slumps_prevented": 4,
+    "interventions_offered": 18,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 274.7,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-06",
+    "department": "Engineering",
+    "energy_index": 57,
+    "slumps_prevented": 8,
+    "interventions_offered": 9,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 225.5,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-06",
+    "department": "Sales",
+    "energy_index": 71,
+    "slumps_prevented": 6,
+    "interventions_offered": 15,
+    "interventions_accepted": 10,
+    "allowance_used_sar": 286.4,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-06",
+    "department": "Operations",
+    "energy_index": 70,
+    "slumps_prevented": 3,
+    "interventions_offered": 17,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 307.4,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-06",
+    "department": "Finance",
+    "energy_index": 70,
+    "slumps_prevented": 4,
+    "interventions_offered": 12,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 137.6,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-06",
+    "department": "HR",
+    "energy_index": 59,
+    "slumps_prevented": 11,
+    "interventions_offered": 14,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 192.8,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-06",
+    "department": "Support",
+    "energy_index": 64,
+    "slumps_prevented": 9,
+    "interventions_offered": 19,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 97.1,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-07",
+    "department": "Engineering",
+    "energy_index": 69,
+    "slumps_prevented": 12,
+    "interventions_offered": 20,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 272.9,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-07",
+    "department": "Sales",
+    "energy_index": 64,
+    "slumps_prevented": 4,
+    "interventions_offered": 16,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 298.0,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-07",
+    "department": "Operations",
+    "energy_index": 58,
+    "slumps_prevented": 11,
+    "interventions_offered": 10,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 259.7,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-07",
+    "department": "Finance",
+    "energy_index": 65,
+    "slumps_prevented": 8,
+    "interventions_offered": 15,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 306.2,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-07",
+    "department": "HR",
+    "energy_index": 65,
+    "slumps_prevented": 8,
+    "interventions_offered": 17,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 256.3,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-07",
+    "department": "Support",
+    "energy_index": 58,
+    "slumps_prevented": 11,
+    "interventions_offered": 11,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 220.9,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-08",
+    "department": "Engineering",
+    "energy_index": 59,
+    "slumps_prevented": 4,
+    "interventions_offered": 17,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 192.9,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-08",
+    "department": "Sales",
+    "energy_index": 55,
+    "slumps_prevented": 9,
+    "interventions_offered": 17,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 312.6,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-08",
+    "department": "Operations",
+    "energy_index": 60,
+    "slumps_prevented": 3,
+    "interventions_offered": 13,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 285.9,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-08",
+    "department": "Finance",
+    "energy_index": 66,
+    "slumps_prevented": 8,
+    "interventions_offered": 15,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 275.3,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-08",
+    "department": "HR",
+    "energy_index": 57,
+    "slumps_prevented": 3,
+    "interventions_offered": 13,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 312.8,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-08",
+    "department": "Support",
+    "energy_index": 57,
+    "slumps_prevented": 9,
+    "interventions_offered": 18,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 179.2,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-09",
+    "department": "Engineering",
+    "energy_index": 66,
+    "slumps_prevented": 12,
+    "interventions_offered": 17,
+    "interventions_accepted": 10,
+    "allowance_used_sar": 186.1,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-09",
+    "department": "Sales",
+    "energy_index": 64,
+    "slumps_prevented": 6,
+    "interventions_offered": 16,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 185.1,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-09",
+    "department": "Operations",
+    "energy_index": 58,
+    "slumps_prevented": 5,
+    "interventions_offered": 18,
+    "interventions_accepted": 10,
+    "allowance_used_sar": 250.3,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-09",
+    "department": "Finance",
+    "energy_index": 65,
+    "slumps_prevented": 5,
+    "interventions_offered": 16,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 318.1,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-09",
+    "department": "HR",
+    "energy_index": 65,
+    "slumps_prevented": 9,
+    "interventions_offered": 18,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 303.8,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-09",
+    "department": "Support",
+    "energy_index": 76,
+    "slumps_prevented": 9,
+    "interventions_offered": 12,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 315.3,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-10",
+    "department": "Engineering",
+    "energy_index": 68,
+    "slumps_prevented": 11,
+    "interventions_offered": 10,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 202.0,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-10",
+    "department": "Sales",
+    "energy_index": 62,
+    "slumps_prevented": 8,
+    "interventions_offered": 20,
+    "interventions_accepted": 12,
+    "allowance_used_sar": 161.6,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-10",
+    "department": "Operations",
+    "energy_index": 61,
+    "slumps_prevented": 11,
+    "interventions_offered": 19,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 219.2,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-10",
+    "department": "Finance",
+    "energy_index": 66,
+    "slumps_prevented": 7,
+    "interventions_offered": 16,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 212.5,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-10",
+    "department": "HR",
+    "energy_index": 69,
+    "slumps_prevented": 5,
+    "interventions_offered": 21,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 217.2,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-10",
+    "department": "Support",
+    "energy_index": 63,
+    "slumps_prevented": 8,
+    "interventions_offered": 13,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 172.7,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-11",
+    "department": "Engineering",
+    "energy_index": 60,
+    "slumps_prevented": 11,
+    "interventions_offered": 10,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 159.7,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-11",
+    "department": "Sales",
+    "energy_index": 65,
+    "slumps_prevented": 2,
+    "interventions_offered": 16,
+    "interventions_accepted": 10,
+    "allowance_used_sar": 253.4,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-11",
+    "department": "Operations",
+    "energy_index": 69,
+    "slumps_prevented": 6,
+    "interventions_offered": 9,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 161.3,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-11",
+    "department": "Finance",
+    "energy_index": 68,
+    "slumps_prevented": 12,
+    "interventions_offered": 21,
+    "interventions_accepted": 9,
+    "allowance_used_sar": 286.2,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-11",
+    "department": "HR",
+    "energy_index": 72,
+    "slumps_prevented": 9,
+    "interventions_offered": 19,
+    "interventions_accepted": 12,
+    "allowance_used_sar": 289.4,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-11",
+    "department": "Support",
+    "energy_index": 67,
+    "slumps_prevented": 6,
+    "interventions_offered": 11,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 319.4,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-12",
+    "department": "Engineering",
+    "energy_index": 60,
+    "slumps_prevented": 3,
+    "interventions_offered": 20,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 186.5,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-12",
+    "department": "Sales",
+    "energy_index": 57,
+    "slumps_prevented": 6,
+    "interventions_offered": 13,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 166.0,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-12",
+    "department": "Operations",
+    "energy_index": 62,
+    "slumps_prevented": 12,
+    "interventions_offered": 16,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 270.2,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-12",
+    "department": "Finance",
+    "energy_index": 60,
+    "slumps_prevented": 11,
+    "interventions_offered": 17,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 244.0,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-12",
+    "department": "HR",
+    "energy_index": 68,
+    "slumps_prevented": 6,
+    "interventions_offered": 11,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 190.3,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-12",
+    "department": "Support",
+    "energy_index": 68,
+    "slumps_prevented": 3,
+    "interventions_offered": 18,
+    "interventions_accepted": 9,
+    "allowance_used_sar": 186.0,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-13",
+    "department": "Engineering",
+    "energy_index": 66,
+    "slumps_prevented": 6,
+    "interventions_offered": 18,
+    "interventions_accepted": 12,
+    "allowance_used_sar": 189.6,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-13",
+    "department": "Sales",
+    "energy_index": 66,
+    "slumps_prevented": 5,
+    "interventions_offered": 21,
+    "interventions_accepted": 10,
+    "allowance_used_sar": 171.5,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-13",
+    "department": "Operations",
+    "energy_index": 70,
+    "slumps_prevented": 12,
+    "interventions_offered": 19,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 175.0,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-13",
+    "department": "Finance",
+    "energy_index": 76,
+    "slumps_prevented": 2,
+    "interventions_offered": 20,
+    "interventions_accepted": 12,
+    "allowance_used_sar": 298.5,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-13",
+    "department": "HR",
+    "energy_index": 73,
+    "slumps_prevented": 7,
+    "interventions_offered": 20,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 132.6,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-13",
+    "department": "Support",
+    "energy_index": 70,
+    "slumps_prevented": 12,
+    "interventions_offered": 18,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 243.4,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-14",
+    "department": "Engineering",
+    "energy_index": 64,
+    "slumps_prevented": 2,
+    "interventions_offered": 22,
+    "interventions_accepted": 12,
+    "allowance_used_sar": 154.1,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-14",
+    "department": "Sales",
+    "energy_index": 66,
+    "slumps_prevented": 3,
+    "interventions_offered": 13,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 298.3,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-14",
+    "department": "Operations",
+    "energy_index": 65,
+    "slumps_prevented": 10,
+    "interventions_offered": 11,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 290.4,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-14",
+    "department": "Finance",
+    "energy_index": 73,
+    "slumps_prevented": 4,
+    "interventions_offered": 22,
+    "interventions_accepted": 9,
+    "allowance_used_sar": 141.7,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-14",
+    "department": "HR",
+    "energy_index": 72,
+    "slumps_prevented": 3,
+    "interventions_offered": 21,
+    "interventions_accepted": 9,
+    "allowance_used_sar": 192.4,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-14",
+    "department": "Support",
+    "energy_index": 71,
+    "slumps_prevented": 12,
+    "interventions_offered": 11,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 315.2,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-15",
+    "department": "Engineering",
+    "energy_index": 58,
+    "slumps_prevented": 10,
+    "interventions_offered": 14,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 109.7,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-15",
+    "department": "Sales",
+    "energy_index": 70,
+    "slumps_prevented": 8,
+    "interventions_offered": 18,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 277.4,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-15",
+    "department": "Operations",
+    "energy_index": 60,
+    "slumps_prevented": 11,
+    "interventions_offered": 11,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 292.2,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-15",
+    "department": "Finance",
+    "energy_index": 61,
+    "slumps_prevented": 9,
+    "interventions_offered": 18,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 298.3,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-15",
+    "department": "HR",
+    "energy_index": 65,
+    "slumps_prevented": 2,
+    "interventions_offered": 9,
+    "interventions_accepted": 3,
+    "allowance_used_sar": 153.0,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-15",
+    "department": "Support",
+    "energy_index": 51,
+    "slumps_prevented": 4,
+    "interventions_offered": 11,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 173.3,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-16",
+    "department": "Engineering",
+    "energy_index": 74,
+    "slumps_prevented": 8,
+    "interventions_offered": 19,
+    "interventions_accepted": 12,
+    "allowance_used_sar": 221.0,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-16",
+    "department": "Sales",
+    "energy_index": 73,
+    "slumps_prevented": 11,
+    "interventions_offered": 9,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 177.9,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-16",
+    "department": "Operations",
+    "energy_index": 68,
+    "slumps_prevented": 9,
+    "interventions_offered": 13,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 308.1,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-16",
+    "department": "Finance",
+    "energy_index": 68,
+    "slumps_prevented": 12,
+    "interventions_offered": 13,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 166.1,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-16",
+    "department": "HR",
+    "energy_index": 64,
+    "slumps_prevented": 9,
+    "interventions_offered": 9,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 102.0,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-16",
+    "department": "Support",
+    "energy_index": 77,
+    "slumps_prevented": 2,
+    "interventions_offered": 17,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 268.8,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-17",
+    "department": "Engineering",
+    "energy_index": 67,
+    "slumps_prevented": 10,
+    "interventions_offered": 17,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 129.7,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-17",
+    "department": "Sales",
+    "energy_index": 65,
+    "slumps_prevented": 11,
+    "interventions_offered": 20,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 80.7,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-17",
+    "department": "Operations",
+    "energy_index": 67,
+    "slumps_prevented": 3,
+    "interventions_offered": 12,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 238.7,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-17",
+    "department": "Finance",
+    "energy_index": 59,
+    "slumps_prevented": 5,
+    "interventions_offered": 13,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 221.3,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-17",
+    "department": "HR",
+    "energy_index": 63,
+    "slumps_prevented": 8,
+    "interventions_offered": 8,
+    "interventions_accepted": 3,
+    "allowance_used_sar": 206.3,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-17",
+    "department": "Support",
+    "energy_index": 71,
+    "slumps_prevented": 11,
+    "interventions_offered": 20,
+    "interventions_accepted": 9,
+    "allowance_used_sar": 106.2,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-18",
+    "department": "Engineering",
+    "energy_index": 62,
+    "slumps_prevented": 12,
+    "interventions_offered": 19,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 205.1,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-18",
+    "department": "Sales",
+    "energy_index": 67,
+    "slumps_prevented": 8,
+    "interventions_offered": 8,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 182.3,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-18",
+    "department": "Operations",
+    "energy_index": 75,
+    "slumps_prevented": 3,
+    "interventions_offered": 22,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 157.3,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-18",
+    "department": "Finance",
+    "energy_index": 60,
+    "slumps_prevented": 11,
+    "interventions_offered": 12,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 211.6,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-18",
+    "department": "HR",
+    "energy_index": 72,
+    "slumps_prevented": 10,
+    "interventions_offered": 16,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 225.3,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-18",
+    "department": "Support",
+    "energy_index": 68,
+    "slumps_prevented": 10,
+    "interventions_offered": 18,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 253.0,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-19",
+    "department": "Engineering",
+    "energy_index": 66,
+    "slumps_prevented": 7,
+    "interventions_offered": 22,
+    "interventions_accepted": 9,
+    "allowance_used_sar": 278.6,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-19",
+    "department": "Sales",
+    "energy_index": 74,
+    "slumps_prevented": 7,
+    "interventions_offered": 9,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 239.6,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-19",
+    "department": "Operations",
+    "energy_index": 69,
+    "slumps_prevented": 3,
+    "interventions_offered": 22,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 279.6,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-19",
+    "department": "Finance",
+    "energy_index": 64,
+    "slumps_prevented": 4,
+    "interventions_offered": 19,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 213.5,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-19",
+    "department": "HR",
+    "energy_index": 68,
+    "slumps_prevented": 12,
+    "interventions_offered": 14,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 305.9,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-19",
+    "department": "Support",
+    "energy_index": 61,
+    "slumps_prevented": 3,
+    "interventions_offered": 17,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 218.7,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-20",
+    "department": "Engineering",
+    "energy_index": 65,
+    "slumps_prevented": 3,
+    "interventions_offered": 15,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 164.0,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-20",
+    "department": "Sales",
+    "energy_index": 70,
+    "slumps_prevented": 8,
+    "interventions_offered": 12,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 282.8,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-20",
+    "department": "Operations",
+    "energy_index": 76,
+    "slumps_prevented": 2,
+    "interventions_offered": 21,
+    "interventions_accepted": 12,
+    "allowance_used_sar": 123.3,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-20",
+    "department": "Finance",
+    "energy_index": 67,
+    "slumps_prevented": 4,
+    "interventions_offered": 8,
+    "interventions_accepted": 3,
+    "allowance_used_sar": 215.9,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-20",
+    "department": "HR",
+    "energy_index": 60,
+    "slumps_prevented": 2,
+    "interventions_offered": 19,
+    "interventions_accepted": 10,
+    "allowance_used_sar": 102.0,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-20",
+    "department": "Support",
+    "energy_index": 69,
+    "slumps_prevented": 7,
+    "interventions_offered": 15,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 154.8,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-21",
+    "department": "Engineering",
+    "energy_index": 71,
+    "slumps_prevented": 4,
+    "interventions_offered": 9,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 117.8,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-21",
+    "department": "Sales",
+    "energy_index": 68,
+    "slumps_prevented": 8,
+    "interventions_offered": 12,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 196.6,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-21",
+    "department": "Operations",
+    "energy_index": 67,
+    "slumps_prevented": 3,
+    "interventions_offered": 11,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 162.8,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-21",
+    "department": "Finance",
+    "energy_index": 71,
+    "slumps_prevented": 10,
+    "interventions_offered": 18,
+    "interventions_accepted": 10,
+    "allowance_used_sar": 240.1,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-21",
+    "department": "HR",
+    "energy_index": 66,
+    "slumps_prevented": 5,
+    "interventions_offered": 17,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 152.3,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-21",
+    "department": "Support",
+    "energy_index": 71,
+    "slumps_prevented": 3,
+    "interventions_offered": 12,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 81.9,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-22",
+    "department": "Engineering",
+    "energy_index": 49,
+    "slumps_prevented": 5,
+    "interventions_offered": 14,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 200.1,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-22",
+    "department": "Sales",
+    "energy_index": 56,
+    "slumps_prevented": 8,
+    "interventions_offered": 21,
+    "interventions_accepted": 12,
+    "allowance_used_sar": 84.5,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-22",
+    "department": "Operations",
+    "energy_index": 63,
+    "slumps_prevented": 12,
+    "interventions_offered": 14,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 180.2,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-22",
+    "department": "Finance",
+    "energy_index": 55,
+    "slumps_prevented": 11,
+    "interventions_offered": 13,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 190.4,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-22",
+    "department": "HR",
+    "energy_index": 56,
+    "slumps_prevented": 8,
+    "interventions_offered": 21,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 221.3,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-22",
+    "department": "Support",
+    "energy_index": 59,
+    "slumps_prevented": 7,
+    "interventions_offered": 19,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 267.0,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-23",
+    "department": "Engineering",
+    "energy_index": 71,
+    "slumps_prevented": 5,
+    "interventions_offered": 9,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 297.4,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-23",
+    "department": "Sales",
+    "energy_index": 73,
+    "slumps_prevented": 4,
+    "interventions_offered": 21,
+    "interventions_accepted": 12,
+    "allowance_used_sar": 136.7,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-23",
+    "department": "Operations",
+    "energy_index": 64,
+    "slumps_prevented": 12,
+    "interventions_offered": 10,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 98.1,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-23",
+    "department": "Finance",
+    "energy_index": 76,
+    "slumps_prevented": 9,
+    "interventions_offered": 17,
+    "interventions_accepted": 10,
+    "allowance_used_sar": 243.5,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-23",
+    "department": "HR",
+    "energy_index": 72,
+    "slumps_prevented": 9,
+    "interventions_offered": 10,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 186.1,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-23",
+    "department": "Support",
+    "energy_index": 70,
+    "slumps_prevented": 3,
+    "interventions_offered": 8,
+    "interventions_accepted": 3,
+    "allowance_used_sar": 154.5,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-24",
+    "department": "Engineering",
+    "energy_index": 53,
+    "slumps_prevented": 3,
+    "interventions_offered": 13,
+    "interventions_accepted": 8,
+    "allowance_used_sar": 234.7,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-24",
+    "department": "Sales",
+    "energy_index": 75,
+    "slumps_prevented": 11,
+    "interventions_offered": 16,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 213.0,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-24",
+    "department": "Operations",
+    "energy_index": 76,
+    "slumps_prevented": 7,
+    "interventions_offered": 17,
+    "interventions_accepted": 9,
+    "allowance_used_sar": 225.2,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-24",
+    "department": "Finance",
+    "energy_index": 64,
+    "slumps_prevented": 7,
+    "interventions_offered": 9,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 315.8,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-24",
+    "department": "HR",
+    "energy_index": 75,
+    "slumps_prevented": 9,
+    "interventions_offered": 10,
+    "interventions_accepted": 3,
+    "allowance_used_sar": 317.8,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-24",
+    "department": "Support",
+    "energy_index": 67,
+    "slumps_prevented": 8,
+    "interventions_offered": 22,
+    "interventions_accepted": 9,
+    "allowance_used_sar": 265.9,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-25",
+    "department": "Engineering",
+    "energy_index": 73,
+    "slumps_prevented": 3,
+    "interventions_offered": 13,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 213.9,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-25",
+    "department": "Sales",
+    "energy_index": 65,
+    "slumps_prevented": 11,
+    "interventions_offered": 19,
+    "interventions_accepted": 12,
+    "allowance_used_sar": 289.6,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-25",
+    "department": "Operations",
+    "energy_index": 67,
+    "slumps_prevented": 7,
+    "interventions_offered": 18,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 154.5,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-25",
+    "department": "Finance",
+    "energy_index": 68,
+    "slumps_prevented": 6,
+    "interventions_offered": 19,
+    "interventions_accepted": 12,
+    "allowance_used_sar": 214.1,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-25",
+    "department": "HR",
+    "energy_index": 69,
+    "slumps_prevented": 12,
+    "interventions_offered": 19,
+    "interventions_accepted": 12,
+    "allowance_used_sar": 299.0,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-25",
+    "department": "Support",
+    "energy_index": 77,
+    "slumps_prevented": 2,
+    "interventions_offered": 14,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 167.0,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-26",
+    "department": "Engineering",
+    "energy_index": 61,
+    "slumps_prevented": 5,
+    "interventions_offered": 20,
+    "interventions_accepted": 10,
+    "allowance_used_sar": 320.0,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-26",
+    "department": "Sales",
+    "energy_index": 62,
+    "slumps_prevented": 10,
+    "interventions_offered": 21,
+    "interventions_accepted": 13,
+    "allowance_used_sar": 265.0,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-26",
+    "department": "Operations",
+    "energy_index": 72,
+    "slumps_prevented": 4,
+    "interventions_offered": 22,
+    "interventions_accepted": 13,
+    "allowance_used_sar": 223.3,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-26",
+    "department": "Finance",
+    "energy_index": 61,
+    "slumps_prevented": 11,
+    "interventions_offered": 21,
+    "interventions_accepted": 12,
+    "allowance_used_sar": 274.2,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-26",
+    "department": "HR",
+    "energy_index": 64,
+    "slumps_prevented": 5,
+    "interventions_offered": 14,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 312.7,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-26",
+    "department": "Support",
+    "energy_index": 67,
+    "slumps_prevented": 9,
+    "interventions_offered": 16,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 297.0,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-27",
+    "department": "Engineering",
+    "energy_index": 68,
+    "slumps_prevented": 9,
+    "interventions_offered": 17,
+    "interventions_accepted": 11,
+    "allowance_used_sar": 264.7,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-27",
+    "department": "Sales",
+    "energy_index": 73,
+    "slumps_prevented": 5,
+    "interventions_offered": 14,
+    "interventions_accepted": 9,
+    "allowance_used_sar": 272.3,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-27",
+    "department": "Operations",
+    "energy_index": 61,
+    "slumps_prevented": 7,
+    "interventions_offered": 18,
+    "interventions_accepted": 9,
+    "allowance_used_sar": 213.1,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-27",
+    "department": "Finance",
+    "energy_index": 66,
+    "slumps_prevented": 4,
+    "interventions_offered": 12,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 145.5,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-27",
+    "department": "HR",
+    "energy_index": 64,
+    "slumps_prevented": 9,
+    "interventions_offered": 22,
+    "interventions_accepted": 9,
+    "allowance_used_sar": 292.3,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-27",
+    "department": "Support",
+    "energy_index": 63,
+    "slumps_prevented": 5,
+    "interventions_offered": 14,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 172.7,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-28",
+    "department": "Engineering",
+    "energy_index": 61,
+    "slumps_prevented": 3,
+    "interventions_offered": 8,
+    "interventions_accepted": 3,
+    "allowance_used_sar": 281.4,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-28",
+    "department": "Sales",
+    "energy_index": 61,
+    "slumps_prevented": 9,
+    "interventions_offered": 8,
+    "interventions_accepted": 3,
+    "allowance_used_sar": 247.1,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-28",
+    "department": "Operations",
+    "energy_index": 71,
+    "slumps_prevented": 3,
+    "interventions_offered": 17,
+    "interventions_accepted": 5,
+    "allowance_used_sar": 84.6,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-28",
+    "department": "Finance",
+    "energy_index": 67,
+    "slumps_prevented": 8,
+    "interventions_offered": 19,
+    "interventions_accepted": 10,
+    "allowance_used_sar": 106.7,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-28",
+    "department": "HR",
+    "energy_index": 64,
+    "slumps_prevented": 8,
+    "interventions_offered": 9,
+    "interventions_accepted": 3,
+    "allowance_used_sar": 233.3,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-28",
+    "department": "Support",
+    "energy_index": 59,
+    "slumps_prevented": 11,
+    "interventions_offered": 21,
+    "interventions_accepted": 14,
+    "allowance_used_sar": 208.7,
+    "employee_count": 6
+  },
+  {
+    "date": "2026-10-29",
+    "department": "Engineering",
+    "energy_index": 51,
+    "slumps_prevented": 7,
+    "interventions_offered": 14,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 137.7,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-29",
+    "department": "Sales",
+    "energy_index": 61,
+    "slumps_prevented": 7,
+    "interventions_offered": 18,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 96.2,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-29",
+    "department": "Operations",
+    "energy_index": 62,
+    "slumps_prevented": 7,
+    "interventions_offered": 8,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 140.9,
+    "employee_count": 5
+  },
+  {
+    "date": "2026-10-29",
+    "department": "Finance",
+    "energy_index": 66,
+    "slumps_prevented": 12,
+    "interventions_offered": 9,
+    "interventions_accepted": 4,
+    "allowance_used_sar": 230.8,
+    "employee_count": 7
+  },
+  {
+    "date": "2026-10-29",
+    "department": "HR",
+    "energy_index": 51,
+    "slumps_prevented": 12,
+    "interventions_offered": 13,
+    "interventions_accepted": 7,
+    "allowance_used_sar": 122.0,
+    "employee_count": 8
+  },
+  {
+    "date": "2026-10-29",
+    "department": "Support",
+    "energy_index": 66,
+    "slumps_prevented": 3,
+    "interventions_offered": 10,
+    "interventions_accepted": 6,
+    "allowance_used_sar": 251.9,
+    "employee_count": 8
+  }
+]

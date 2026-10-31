@@ -1,0 +1,495 @@
+{
+  "demo_user": [
+    {
+      "start": "2026-10-30T10:00:00",
+      "end": "2026-10-30T10:15:00",
+      "importance": "low",
+      "attendee_count": 8,
+      "label": "Standup"
+    },
+    {
+      "start": "2026-10-30T11:00:00",
+      "end": "2026-10-30T11:45:00",
+      "importance": "high",
+      "attendee_count": 5,
+      "label": "Client check-in"
+    },
+    {
+      "start": "2026-10-30T13:00:00",
+      "end": "2026-10-30T14:00:00",
+      "importance": "high",
+      "attendee_count": 4,
+      "label": "Client meeting"
+    },
+    {
+      "start": "2026-10-30T14:00:00",
+      "end": "2026-10-30T15:00:00",
+      "importance": "medium",
+      "attendee_count": 3,
+      "label": "Planning"
+    },
+    {
+      "start": "2026-10-30T15:00:00",
+      "end": "2026-10-30T16:00:00",
+      "importance": "medium",
+      "attendee_count": 5,
+      "label": "Sync"
+    },
+    {
+      "start": "2026-10-30T16:00:00",
+      "end": "2026-10-30T16:30:00",
+      "importance": "low",
+      "attendee_count": 2,
+      "label": "Wrap-up"
+    }
+  ],
+  "emp_02": [
+    {
+      "start": "2026-10-30T11:30:00",
+      "end": "2026-10-30T11:30:00",
+      "importance": "medium",
+      "attendee_count": 8
+    },
+    {
+      "start": "2026-10-30T15:15:00",
+      "end": "2026-10-30T16:00:00",
+      "importance": "high",
+      "attendee_count": 8
+    }
+  ],
+  "emp_03": [],
+  "emp_04": [
+    {
+      "start": "2026-10-30T11:30:00",
+      "end": "2026-10-30T11:30:00",
+      "importance": "low",
+      "attendee_count": 2
+    }
+  ],
+  "emp_05": [
+    {
+      "start": "2026-10-30T09:00:00",
+      "end": "2026-10-30T09:30:00",
+      "importance": "medium",
+      "attendee_count": 3
+    },
+    {
+      "start": "2026-10-30T14:15:00",
+      "end": "2026-10-30T15:15:00",
+      "importance": "low",
+      "attendee_count": 9
+    }
+  ],
+  "emp_06": [
+    {
+      "start": "2026-10-30T15:15:00",
+      "end": "2026-10-30T16:15:00",
+      "importance": "low",
+      "attendee_count": 8
+    }
+  ],
+  "emp_07": [
+    {
+      "start": "2026-10-30T09:00:00",
+      "end": "2026-10-30T09:30:00",
+      "importance": "medium",
+      "attendee_count": 7
+    },
+    {
+      "start": "2026-10-30T14:00:00",
+      "end": "2026-10-30T15:00:00",
+      "importance": "high",
+      "attendee_count": 2
+    }
+  ],
+  "emp_08": [
+    {
+      "start": "2026-10-30T13:00:00",
+      "end": "2026-10-30T13:30:00",
+      "importance": "low",
+      "attendee_count": 9
+    }
+  ],
+  "emp_09": [
+    {
+      "start": "2026-10-30T10:00:00",
+      "end": "2026-10-30T10:45:00",
+      "importance": "medium",
+      "attendee_count": 5
+    },
+    {
+      "start": "2026-10-30T13:30:00",
+      "end": "2026-10-30T14:15:00",
+      "importance": "low",
+      "attendee_count": 1
+    }
+  ],
+  "emp_10": [
+    {
+      "start": "2026-10-30T11:00:00",
+      "end": "2026-10-30T11:30:00",
+      "importance": "low",
+      "attendee_count": 4
+    },
+    {
+      "start": "2026-10-30T14:15:00",
+      "end": "2026-10-30T14:45:00",
+      "importance": "low",
+      "attendee_count": 3
+    }
+  ],
+  "emp_11": [
+    {
+      "start": "2026-10-30T10:15:00",
+      "end": "2026-10-30T10:45:00",
+      "importance": "medium",
+      "attendee_count": 8
+    },
+    {
+      "start": "2026-10-30T15:30:00",
+      "end": "2026-10-30T16:30:00",
+      "importance": "high",
+      "attendee_count": 8
+    }
+  ],
+  "emp_12": [
+    {
+      "start": "2026-10-30T13:30:00",
+      "end": "2026-10-30T14:30:00",
+      "importance": "high",
+      "attendee_count": 1
+    }
+  ],
+  "emp_13": [
+    {
+      "start": "2026-10-30T09:00:00",
+      "end": "2026-10-30T09:45:00",
+      "importance": "low",
+      "attendee_count": 2
+    },
+    {
+      "start": "2026-10-30T13:00:00",
+      "end": "2026-10-30T13:30:00",
+      "importance": "high",
+      "attendee_count": 2
+    }
+  ],
+  "emp_14": [
+    {
+      "start": "2026-10-30T09:15:00",
+      "end": "2026-10-30T09:30:00",
+      "importance": "low",
+      "attendee_count": 11
+    },
+    {
+      "start": "2026-10-30T15:15:00",
+      "end": "2026-10-30T15:45:00",
+      "importance": "high",
+      "attendee_count": 10
+    }
+  ],
+  "emp_15": [
+    {
+      "start": "2026-10-30T10:15:00",
+      "end": "2026-10-30T10:30:00",
+      "importance": "medium",
+      "attendee_count": 5
+    },
+    {
+      "start": "2026-10-30T13:30:00",
+      "end": "2026-10-30T14:30:00",
+      "importance": "medium",
+      "attendee_count": 8
+    }
+  ],
+  "emp_16": [
+    {
+      "start": "2026-10-30T09:00:00",
+      "end": "2026-10-30T09:45:00",
+      "importance": "low",
+      "attendee_count": 3
+    },
+    {
+      "start": "2026-10-30T15:00:00",
+      "end": "2026-10-30T15:45:00",
+      "importance": "medium",
+      "attendee_count": 2
+    }
+  ],
+  "emp_17": [
+    {
+      "start": "2026-10-30T10:15:00",
+      "end": "2026-10-30T10:30:00",
+      "importance": "medium",
+      "attendee_count": 10
+    },
+    {
+      "start": "2026-10-30T15:30:00",
+      "end": "2026-10-30T16:30:00",
+      "importance": "low",
+      "attendee_count": 9
+    }
+  ],
+  "emp_18": [
+    {
+      "start": "2026-10-30T13:00:00",
+      "end": "2026-10-30T13:45:00",
+      "importance": "low",
+      "attendee_count": 9
+    }
+  ],
+  "emp_19": [
+    {
+      "start": "2026-10-30T13:15:00",
+      "end": "2026-10-30T14:15:00",
+      "importance": "low",
+      "attendee_count": 5
+    }
+  ],
+  "emp_20": [
+    {
+      "start": "2026-10-30T10:00:00",
+      "end": "2026-10-30T10:30:00",
+      "importance": "medium",
+      "attendee_count": 6
+    }
+  ],
+  "emp_21": [
+    {
+      "start": "2026-10-30T09:30:00",
+      "end": "2026-10-30T09:45:00",
+      "importance": "low",
+      "attendee_count": 9
+    },
+    {
+      "start": "2026-10-30T14:00:00",
+      "end": "2026-10-30T15:00:00",
+      "importance": "low",
+      "attendee_count": 2
+    }
+  ],
+  "emp_22": [
+    {
+      "start": "2026-10-30T11:00:00",
+      "end": "2026-10-30T11:30:00",
+      "importance": "medium",
+      "attendee_count": 11
+    },
+    {
+      "start": "2026-10-30T14:00:00",
+      "end": "2026-10-30T14:30:00",
+      "importance": "medium",
+      "attendee_count": 6
+    }
+  ],
+  "emp_23": [
+    {
+      "start": "2026-10-30T09:15:00",
+      "end": "2026-10-30T09:30:00",
+      "importance": "low",
+      "attendee_count": 12
+    }
+  ],
+  "emp_24": [
+    {
+      "start": "2026-10-30T10:30:00",
+      "end": "2026-10-30T10:30:00",
+      "importance": "low",
+      "attendee_count": 4
+    },
+    {
+      "start": "2026-10-30T13:00:00",
+      "end": "2026-10-30T13:45:00",
+      "importance": "low",
+      "attendee_count": 6
+    }
+  ],
+  "emp_25": [
+    {
+      "start": "2026-10-30T10:30:00",
+      "end": "2026-10-30T10:30:00",
+      "importance": "medium",
+      "attendee_count": 4
+    },
+    {
+      "start": "2026-10-30T13:00:00",
+      "end": "2026-10-30T13:45:00",
+      "importance": "medium",
+      "attendee_count": 4
+    }
+  ],
+  "emp_26": [
+    {
+      "start": "2026-10-30T14:00:00",
+      "end": "2026-10-30T14:45:00",
+      "importance": "low",
+      "attendee_count": 1
+    }
+  ],
+  "emp_27": [
+    {
+      "start": "2026-10-30T10:15:00",
+      "end": "2026-10-30T10:45:00",
+      "importance": "low",
+      "attendee_count": 6
+    },
+    {
+      "start": "2026-10-30T15:30:00",
+      "end": "2026-10-30T16:15:00",
+      "importance": "high",
+      "attendee_count": 6
+    }
+  ],
+  "emp_28": [
+    {
+      "start": "2026-10-30T09:15:00",
+      "end": "2026-10-30T09:30:00",
+      "importance": "medium",
+      "attendee_count": 2
+    }
+  ],
+  "emp_29": [
+    {
+      "start": "2026-10-30T11:15:00",
+      "end": "2026-10-30T11:45:00",
+      "importance": "low",
+      "attendee_count": 8
+    },
+    {
+      "start": "2026-10-30T13:00:00",
+      "end": "2026-10-30T13:45:00",
+      "importance": "high",
+      "attendee_count": 7
+    }
+  ],
+  "emp_30": [
+    {
+      "start": "2026-10-30T15:30:00",
+      "end": "2026-10-30T16:30:00",
+      "importance": "high",
+      "attendee_count": 4
+    }
+  ],
+  "emp_31": [
+    {
+      "start": "2026-10-30T09:30:00",
+      "end": "2026-10-30T09:45:00",
+      "importance": "medium",
+      "attendee_count": 12
+    },
+    {
+      "start": "2026-10-30T15:30:00",
+      "end": "2026-10-30T16:15:00",
+      "importance": "medium",
+      "attendee_count": 7
+    }
+  ],
+  "emp_32": [
+    {
+      "start": "2026-10-30T11:15:00",
+      "end": "2026-10-30T11:30:00",
+      "importance": "low",
+      "attendee_count": 8
+    },
+    {
+      "start": "2026-10-30T14:30:00",
+      "end": "2026-10-30T15:30:00",
+      "importance": "low",
+      "attendee_count": 10
+    }
+  ],
+  "emp_33": [
+    {
+      "start": "2026-10-30T10:30:00",
+      "end": "2026-10-30T10:30:00",
+      "importance": "medium",
+      "attendee_count": 6
+    }
+  ],
+  "emp_34": [
+    {
+      "start": "2026-10-30T11:30:00",
+      "end": "2026-10-30T11:45:00",
+      "importance": "medium",
+      "attendee_count": 9
+    },
+    {
+      "start": "2026-10-30T13:15:00",
+      "end": "2026-10-30T14:15:00",
+      "importance": "high",
+      "attendee_count": 3
+    }
+  ],
+  "emp_35": [
+    {
+      "start": "2026-10-30T10:30:00",
+      "end": "2026-10-30T10:45:00",
+      "importance": "low",
+      "attendee_count": 5
+    },
+    {
+      "start": "2026-10-30T13:00:00",
+      "end": "2026-10-30T13:30:00",
+      "importance": "low",
+      "attendee_count": 1
+    }
+  ],
+  "emp_36": [
+    {
+      "start": "2026-10-30T13:15:00",
+      "end": "2026-10-30T14:00:00",
+      "importance": "high",
+      "attendee_count": 10
+    }
+  ],
+  "emp_37": [
+    {
+      "start": "2026-10-30T14:00:00",
+      "end": "2026-10-30T14:45:00",
+      "importance": "low",
+      "attendee_count": 1
+    }
+  ],
+  "emp_38": [
+    {
+      "start": "2026-10-30T09:15:00",
+      "end": "2026-10-30T09:30:00",
+      "importance": "low",
+      "attendee_count": 10
+    },
+    {
+      "start": "2026-10-30T15:00:00",
+      "end": "2026-10-30T15:30:00",
+      "importance": "medium",
+      "attendee_count": 3
+    }
+  ],
+  "emp_39": [
+    {
+      "start": "2026-10-30T11:30:00",
+      "end": "2026-10-30T11:45:00",
+      "importance": "medium",
+      "attendee_count": 11
+    },
+    {
+      "start": "2026-10-30T15:30:00",
+      "end": "2026-10-30T16:15:00",
+      "importance": "medium",
+      "attendee_count": 3
+    }
+  ],
+  "emp_40": [
+    {
+      "start": "2026-10-30T10:15:00",
+      "end": "2026-10-30T10:45:00",
+      "importance": "low",
+      "attendee_count": 12
+    },
+    {
+      "start": "2026-10-30T15:30:00",
+      "end": "2026-10-30T16:15:00",
+      "importance": "low",
+      "attendee_count": 5
+    }
+  ]
+}

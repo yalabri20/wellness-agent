@@ -1,0 +1,13 @@
+line-length = 100
+target-version = "py311"
+
+[lint]
+select = ["E", "F", "I", "W"]
+ignore = ["E501"]
+
+[lint.per-file-ignores]
+"scripts_gen_seed.py" = ["E501"]
+"seed_demo.py" = ["E402"]
+"demo_script.py" = ["E402"]
+"simulator_app.py" = ["E402"]
+"dashboard.py" = ["E402"]
