@@ -2,9 +2,29 @@
 
 Hackathon demo for **Misk Humain Future AI Builders** — Autonomous Enterprise track.
 
-An enterprise multi-agent system that protects employee energy **during work hours only**: it reads privacy-safe calendar signals, estimates macros for a logged meal (photo or text), scores post-meal slump risk against upcoming meetings, and recommends one intervention (snack, walk, movement break, hydration, or none). Snacks come **only** from a curated catalog. Spending always needs an explicit Confirm click. HR sees aggregated, k-anonymous analytics.
+> **Wellness guidance only — not medical advice.** All impact numbers are badged **Simulated data**.
 
-> **Wellness guidance only — not medical advice.**
+## Live demo (for judges)
+
+**Open this first:** [https://wellness-agent-k4ui.onrender.com](https://wellness-agent-k4ui.onrender.com)
+
+| What to try | Link |
+| --- | --- |
+| **Landing** | [wellness-agent-k4ui.onrender.com](https://wellness-agent-k4ui.onrender.com/) |
+| **Employee Wellness Coach** | […/coach/](https://wellness-agent-k4ui.onrender.com/coach/) |
+| **HR Dashboard** (monthly ops metrics) | […/hr/](https://wellness-agent-k4ui.onrender.com/hr/) |
+| **API docs** | […/api/docs](https://wellness-agent-k4ui.onrender.com/api/docs) |
+
+> **Note:** Render free tier may take ~30–60 seconds on the first open after idle (cold start). Refresh once if the page is still waking up.
+
+**Suggested 60-second path for judges**
+1. Open **Coach** → log a meal (or use a demo image) → accept a walk / snack suggestion.
+2. Open **HR Dashboard** → check Peak Slump Hour + Mitigated before meetings (k-anonymous, simulated).
+3. Optional: skim **API docs** for calendar / steps / policy endpoints.
+
+---
+
+An enterprise multi-agent system that protects employee energy **during work hours only**: it reads privacy-safe calendar signals, estimates macros for a logged meal (photo or text), scores post-meal slump risk against upcoming meetings, and recommends one intervention (snack, walk, movement break, hydration, or none). Snacks come **only** from a curated catalog. Spending always needs an explicit Confirm click. HR sees aggregated, k-anonymous analytics.
 
 ---
 
@@ -110,18 +130,16 @@ Documented, unit-tested, deterministic Python in `heuristic.py`:
 
 ## Deploy on Render
 
+**Production URL:** [https://wellness-agent-k4ui.onrender.com](https://wellness-agent-k4ui.onrender.com)
+
 One Docker Web Service runs the Coach, HR dashboard, FastAPI, and scheduler behind nginx (shared SQLite).
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/yalabri20/wellness-agent)
 
 1. Click **Deploy to Render** (or Blueprint → this repo’s `render.yaml`).
 2. Set secret `ANTHROPIC_API_KEY` in the Render dashboard (required for live LLM; demo caches still work if empty).
-3. After deploy, open:
-   - `https://<service>.onrender.com/` — landing
-   - `/coach/` — Wellness Coach
-   - `/hr/` — HR Dashboard
-   - `/api/docs` — API
-4. Free tier spins down after idle (cold start ~1 min). Phone Shortcut steps URL: `https://<service>.onrender.com/api/activity/steps`.
+3. Live paths: `/` landing · `/coach/` · `/hr/` · `/api/docs`
+4. Free tier spins down after idle (cold start ~1 min). Phone Shortcut steps URL: `https://wellness-agent-k4ui.onrender.com/api/activity/steps`.
 
 ## Setup
 
