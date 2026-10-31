@@ -108,6 +108,21 @@ Documented, unit-tested, deterministic Python in `heuristic.py`:
 - Windows: use `run_all.ps1`; Unix: `./run_all.sh`.
 - Live Slack users map to `demo_user` via `LIVE_DEMO_SLACK_USER_ID` for the 3-minute demo.
 
+## Deploy on Render
+
+One Docker Web Service runs the Coach, HR dashboard, FastAPI, and scheduler behind nginx (shared SQLite).
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/yalabri20/wellness-agent)
+
+1. Click **Deploy to Render** (or Blueprint → this repo’s `render.yaml`).
+2. Set secret `ANTHROPIC_API_KEY` in the Render dashboard (required for live LLM; demo caches still work if empty).
+3. After deploy, open:
+   - `https://<service>.onrender.com/` — landing
+   - `/coach/` — Wellness Coach
+   - `/hr/` — HR Dashboard
+   - `/api/docs` — API
+4. Free tier spins down after idle (cold start ~1 min). Phone Shortcut steps URL: `https://<service>.onrender.com/api/activity/steps`.
+
 ## Setup
 
 ### 1. Python env

@@ -1,0 +1,17 @@
+.env
+.venv
+venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.ruff_cache
+.mypy_cache
+wellness.db
+*.db
+.runlogs
+.git
+.idea
+.vscode
+*.egg-info
+dist
+build
